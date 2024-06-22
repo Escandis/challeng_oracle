@@ -1,6 +1,4 @@
 
-Para crear una explicación estructurada para un archivo README sobre el cifrador del abecedario, podemos seguir estos pasos:
-
 # Cifrador del Abecedario
 - El cifrador del abecedario es una técnica sencilla para transformar letras del alfabeto de manera predecible y reversible.      Consiste en dividir el abecedario en dos partes iguales y luego invertir una de ellas. La letra "n" se mantiene inalterada en ambas partes. Este método puede ser utilizado como un ejercicio educativo para entender conceptos básicos de cifrado y criptografía.
 
